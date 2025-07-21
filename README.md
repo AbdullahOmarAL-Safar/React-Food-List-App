@@ -26,3 +26,10 @@ Edit
 ├── main.jsx # App entry point
 ├── index.css # Modern CSS styles
 └── README.md # Project description
+
+## 👨‍💻 Author
+
+**Abdullah Omar Akram AL-Safar**  
+📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@YourChannel1)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
+📬 [Email](mailto:abodyalsafar2009@gmail.com)
