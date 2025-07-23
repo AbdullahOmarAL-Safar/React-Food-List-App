@@ -1,4 +1,4 @@
-📦 Project: React Food List App
+-📦 Project: React Food List App
 A simple and modern React application that displays categorized lists of fruits and vegetables with their calorie values. Designed with clean UI and supports future extension for features like dark mode, sorting, filtering, etc.
 
 🖼️ Demo
@@ -34,3 +34,5 @@ Edit
 📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@LEVEL_UP_IT)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
 📬 [Email](mailto:abodyalsafar2009@gmail.com)
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=abdullah-omar-2a552834b
